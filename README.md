@@ -1,18 +1,18 @@
 # Hi, I'm Ivie Osoiye 👋
 ## Data Analyst | Turning messy data into clear business insights
 
-[My LinkedIn](https://linkedin.com/in/theromanivy) | [View My Resume](resume.pdf) | [Email Me](mailto:youremail@email.com)
+[My LinkedIn](https://linkedin.com/in/theromanivy) | [View My Resume](https://drive.google.com/file/d/1STXjM_BDL34SEZdvwyJ2wmrlk_i_iXsC/view?usp=sharing) | [Email Me](mailto:osoiyeive@email.com)
 
 ---
 
 ## 📊 Featured Projects
 
-### 1. [Project Name: e.g., Reducing Customer Churn by 10%]
-**The Problem:** [1 plain-English sentence about what you were trying to solve]
-**The Tools Used:** [e.g., SQL, Python, Tableau]
-**The Impact:** [1 sentence explaining the result or business value]
+### 1. [Reducing Customer Churn by 10%]
+**The Problem:** Improve sales by 15%
+**The Tools Used:** SQL, Python, Tableau
+**The Impact:** Reduced customer churn by 10%, resulting in 25% increase in turnover
 
-🔗 [View the Dashboard/Summary](link-to-live-dashboard) | 💻 [View the Code](link-to-github-repo)
+🔗 [View the Dashboard/Summary](link-to-live-dashboard) | 💻 [View the Code](https://github.com/Ivy-Roman/datascraping)
 
 *(Optional: Add a screenshot of your project here later!)*
 
